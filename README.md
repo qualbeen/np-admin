@@ -1,2 +1,3 @@
-# np-admin
-Admin module for NP build on ng-admin
+# sails
+
+a [Sails](http://sailsjs.org) application
